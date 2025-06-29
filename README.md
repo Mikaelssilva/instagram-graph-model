@@ -61,4 +61,4 @@ Interaja com a GUI para criar usuários, fazer login, adicionar conexões, posta
 Esse projeto foi totalmente desenvolvido por Mikael Silva, aluno do curso de Engenharia da Computação da UPE.
 
 ## __Licença__
-Ver licença disponível
+[Ver licença disponível](https://github.com/Mikaelssilva/Instagram-graph-model/blob/main/LICENSE)
